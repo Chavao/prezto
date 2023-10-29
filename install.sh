@@ -33,6 +33,9 @@ source $HOME/.zprezto/runcoms/zshrc
 # Load zsh-autosuggestions
 source $HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
+# Load dotfiles
+source ~/dotfiles/loader.sh
+
 # Customize to your needs...
 EOF
 
