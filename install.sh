@@ -36,6 +36,9 @@ source $HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 # Load dotfiles
 source ~/dotfiles/loader.sh
 
+# Load custom aliases
+source ~/.aliases
+
 # Customize to your needs...
 EOF
 
